@@ -1,0 +1,6 @@
+title,due,estimated_hours,progress,priority,repo,ci_status
+Portfolio release,2026-08-10,18,35,5,HeiKol258/deadline-radar,unknown
+Data cleaning notebook,2026-08-03,4,60,4,,success
+Reading summary,2026-08-07,7,20,3,,unknown
+CI practice repo,2026-08-01,1,80,5,kobe-u-econ-prog-2026/torch-HeiKol258,success
+Reference notes cleanup,2026-08-15,2,10,2,,missing
