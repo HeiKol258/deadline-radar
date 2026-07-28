@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.matplotlib-cache/
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
+.env
+report/
+examples/*.generated.csv
+examples/*.pdf
